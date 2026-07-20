@@ -2,7 +2,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green)# LeadFlow CRM — SaaS Customer Relationship Management
+![License](https://img.shields.io/badge/License-MIT-green)# LeadFlow CRM — SaaS Customer Relationship Management.
 
 LeadFlow is a production-ready, high-fidelity SaaS Customer Relationship Management (CRM) application. It features a modern React 19 + TypeScript + Tailwind CSS v4 frontend and a clean FastAPI + SQLAlchemy backend with role-based JWT authentication, a sales lead pipeline board, automatic activity logging, tasks & meetings scheduling, and sales analytics charts.
 
