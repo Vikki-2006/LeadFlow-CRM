@@ -327,17 +327,6 @@ git push origin feature/new-feature
 # 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-**Vigneshwaran S**
-
-- GitHub: https://github.com/Vikki-2006
-- Portfolio: https://vigneshwaran-dev.vercel.app
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
 ---
 
 ⭐ If you like this project, consider giving it a Star!
