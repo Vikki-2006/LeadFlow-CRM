@@ -1,4 +1,4 @@
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)/
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
