@@ -1,4 +1,4 @@
-# 🚀 LeadFlow CRM  fewfwefwefwefwefgergergaergre
+# 🚀 LeadFlow CRM  
 
 > A modern, production-ready Customer Relationship Management (CRM) platform built with React, FastAPI, and PostgreSQL.
 
